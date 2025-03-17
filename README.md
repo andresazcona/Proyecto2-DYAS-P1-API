@@ -132,7 +132,7 @@ Para probar los endpoints del microservicio, puedes importar la siguiente colecc
 
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/usuario/Proyecto2-DYAS-P1.git
+   git clone https://github.com/andresazcona/Proyecto2-DYAS-P1-API.git
    cd Proyecto2-DYAS-P1
    ```
 
