@@ -50,12 +50,6 @@ El sistema permite realizar las siguientes operaciones sobre la entidad `Usuario
 4. **Actualizar un usuario existente** (`PUT /users/:id`)
 5. **Eliminar un usuario** (`DELETE /users/:id`)
 
-## Diagrama UML
-
-A continuación se muestra el diagrama UML del sistema:
-
-![Diagrama UML](./UML.png)
-
 ## Ejemplo de Uso en Postman
 
 Para probar los endpoints del microservicio, puedes importar la siguiente colección en **Postman**:
